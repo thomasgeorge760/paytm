@@ -110,9 +110,9 @@
 .sec-2-1:hover{
     opacity: .15;
     /* border: 12px bold rgb(14, 13, 13); */
-    background: rgba(0, 151, 19, 0.6);
+    
 }
 
 .test{
-    
+    background: rgba(0, 151, 19, 0.6);
 }
